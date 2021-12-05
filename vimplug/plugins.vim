@@ -8,5 +8,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'jiangmiao/auto-pairs'  
 	" Auto Complete 
 	Plug 'neoclide/coc.nvim'
+	" Rainbow Brackets
+	Plug 'frazrepo/vim-rainbow'
 
 call plug#end()
